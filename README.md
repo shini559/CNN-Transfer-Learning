@@ -29,6 +29,10 @@ CNN_Transfer_Learning/
 
 ## 🚀 Lancer le projet
 
+### Prérequis
+Télécharger les données de radiographies pulmonaires depuis [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) et les placer dans le dossier `data/`.
+
+
 
 ### 1. Installer les dépendances
 
